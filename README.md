@@ -5,8 +5,15 @@ In the case of the second integrative activity  (that is in "integradora2" dir),
 
 To run the server:
 * Install Python 
-* Run:
+* Install Flask running:
 ```shell
 pip install flask
 ```
-* 
+* And to install agentpy run:
+```shell
+pip install agentpy
+```
+* To run the server run in the terminal:
+```shell
+flask run
+```
